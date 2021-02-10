@@ -10,3 +10,9 @@ function multiply(a,b) {
 function divide(a,b) {
   return a / b
 }
+increment(n) {
+  return number ++
+}
+decrement(n) {
+  return number --
+}
