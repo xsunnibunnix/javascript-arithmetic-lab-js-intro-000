@@ -1,12 +1,12 @@
-add(a,b) {
-  return a+b
+add() {
+  return a + b
 }
-subtract(a,b) {
-  return a-b
+subtract() {
+  return a - b
 }
-multiply(a,b) {
-  return a*b
+multiply() {
+  return a * b
 }
-divide(a,b) {
-  return a/b
+divide() {
+  return a / b
 }
